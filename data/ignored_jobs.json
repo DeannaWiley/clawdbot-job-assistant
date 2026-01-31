@@ -1,0 +1,9 @@
+[
+  {
+    "job_url": "https://test.com/job/456",
+    "title": "Skip Job",
+    "company": "SkipCorp",
+    "reason": "Test skip",
+    "ignored_at": "2026-01-31T03:32:28.707121"
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "job_url": "https://example.com/job/123",
+    "title": "Test Designer",
+    "company": "Test Corp",
+    "approved_at": "2026-01-30T08:21:22.076030",
+    "status": "approved",
+    "job_data": {}
+  },
+  {
+    "job_url": "https://test.com/job/auto",
+    "title": "Auto Apply Designer",
+    "company": "Auto Corp",
+    "approved_at": "2026-01-30T08:49:54.676246",
+    "status": "approved",
+    "job_data": {
+      "index": 0,
+      "title": "Auto Apply Designer",
+      "company": "Auto Corp",
+      "job_url": "https://test.com/job/auto",
+      "location": "SF, CA",
+      "description": "Design role"
+    }
+  },
+  {
+    "job_url": "https://test.com/job/123",
+    "title": "Test Job",
+    "company": "TestCorp",
+    "approved_at": "2026-01-31T03:32:28.705175",
+    "status": "approved",
+    "job_data": {}
+  },
+  {
+    "job_url": "https://test.com/job/123",
+    "title": "Test Job",
+    "company": "TestCorp",
+    "approved_at": "2026-01-31T03:33:33.494198",
+    "status": "approved",
+    "job_data": {}
+  },
+  {
+    "job_url": "https://test.com/job/123",
+    "title": "Test Job",
+    "company": "TestCorp",
+    "approved_at": "2026-01-31T03:34:50.215402",
+    "status": "approved",
+    "job_data": {}
+  },
+  {
+    "job_url": "https://test.com/job/123",
+    "title": "Test Job",
+    "company": "TestCorp",
+    "approved_at": "2026-01-31T03:41:22.361628",
+    "status": "approved",
+    "job_data": {}
+  }
+]

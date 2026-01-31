@@ -1,0 +1,30 @@
+{
+  "total_challenges": 9,
+  "tier1_success": 0,
+  "tier2_success": 0,
+  "tier3_success": 8,
+  "failures": 1,
+  "total_cost": 0.0,
+  "daily_stats": {
+    "2026-01-30": {
+      "attempts": 9,
+      "success": 8,
+      "cost": 0
+    }
+  },
+  "by_type": {
+    "recaptcha_v2": {
+      "attempts": 2,
+      "success": 2
+    },
+    "hcaptcha": {
+      "attempts": 4,
+      "success": 4
+    },
+    "funcaptcha": {
+      "attempts": 3,
+      "success": 2
+    }
+  },
+  "by_site": {}
+}

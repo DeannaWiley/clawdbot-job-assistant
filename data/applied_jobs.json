@@ -1,0 +1,1021 @@
+[
+  {
+    "job_url": "https://test.com/job/manual",
+    "title": "Manual Test Designer",
+    "company": "Manual Corp",
+    "applied_at": "2026-01-30T08:49:49.136405",
+    "method": "manual",
+    "documents": {},
+    "success": false,
+    "error": "Pending manual application by user",
+    "status": "failed",
+    "follow_up_date": null,
+    "response_received": false
+  },
+  {
+    "job_url": "https://jobs.lever.co/spotify/13277fc6-fde0-48b2-be23-90eb74b17bae",
+    "title": "Product Designer II - Strategic AI Partnerships",
+    "company": "Spotify",
+    "applied_at": "2026-01-30T09:15:28.968169",
+    "method": "auto",
+    "documents": {
+      "resume_pdf": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Spotify_Product_Designer_II___Strategic_AI_Partnerships_20260130_Resume.pdf",
+      "cover_letter_pdf": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Spotify_Product_Designer_II___Strategic_AI_Partnerships_20260130_CoverLetter.pdf",
+      "resume_docx": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Spotify_Product_Designer_II___Strategic_AI_Partnerships_20260130_Resume.docx",
+      "resume_html": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Spotify_Product_Designer_II___Strategic_AI_Partnerships_20260130_Resume.html"
+    },
+    "success": false,
+    "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://jobs.lever.co/spotify/13277fc6-fde0-48b2-be23-90eb74b17bae/apply\", waiting until \"networkidle\"\n",
+    "status": "failed",
+    "follow_up_date": null,
+    "response_received": false
+  },
+  {
+    "job_url": "https://jobs.lever.co/spotify/13277fc6-fde0-48b2-be23-90eb74b17bae",
+    "title": "Product Designer",
+    "company": "Spotify",
+    "applied_at": "2026-01-30T10:29:33.392203",
+    "method": "auto",
+    "documents": {
+      "resume_pdf": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Spotify_Product_Designer_20260130_Resume.pdf",
+      "cover_letter_pdf": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Spotify_Product_Designer_20260130_CoverLetter.pdf",
+      "resume_docx": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Spotify_Product_Designer_20260130_Resume.docx",
+      "resume_html": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Spotify_Product_Designer_20260130_Resume.html"
+    },
+    "success": true,
+    "error": "",
+    "status": "applied",
+    "follow_up_date": null,
+    "response_received": false
+  },
+  {
+    "job_url": "https://jobs.lever.co/spotify/13277fc6-fde0-48b2-be23-90eb74b17bae",
+    "title": "Product Designer",
+    "company": "Spotify",
+    "applied_at": "2026-01-30T10:33:33.460772",
+    "method": "auto",
+    "documents": {
+      "resume_pdf": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Spotify_Product_Designer_20260130_Resume.pdf",
+      "cover_letter_pdf": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Spotify_Product_Designer_20260130_CoverLetter.pdf",
+      "resume_docx": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Spotify_Product_Designer_20260130_Resume.docx",
+      "resume_html": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Spotify_Product_Designer_20260130_Resume.html"
+    },
+    "success": true,
+    "error": "",
+    "status": "applied",
+    "follow_up_date": null,
+    "response_received": false
+  },
+  {
+    "job_url": "https://jobs.lever.co/spotify/13277fc6-fde0-48b2-be23-90eb74b17bae",
+    "title": "Product Designer",
+    "company": "Spotify",
+    "applied_at": "2026-01-30T10:42:42.138996",
+    "method": "auto",
+    "documents": {
+      "resume_pdf": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Spotify_Product_Designer_20260130_Resume.pdf",
+      "cover_letter_pdf": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Spotify_Product_Designer_20260130_CoverLetter.pdf",
+      "resume_docx": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Spotify_Product_Designer_20260130_Resume.docx",
+      "resume_html": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Spotify_Product_Designer_20260130_Resume.html"
+    },
+    "success": true,
+    "error": "",
+    "status": "applied",
+    "follow_up_date": null,
+    "response_received": false
+  },
+  {
+    "job_url": "https://jobs.lever.co/spotify/13277fc6-fde0-48b2-be23-90eb74b17bae",
+    "title": "Product Designer",
+    "company": "Spotify",
+    "applied_at": "2026-01-30T10:42:42.932392",
+    "method": "auto",
+    "documents": {
+      "resume_pdf": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Spotify_Product_Designer_20260130_Resume.pdf",
+      "cover_letter_pdf": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Spotify_Product_Designer_20260130_CoverLetter.pdf",
+      "resume_docx": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Spotify_Product_Designer_20260130_Resume.docx",
+      "resume_html": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Spotify_Product_Designer_20260130_Resume.html"
+    },
+    "success": true,
+    "error": "",
+    "status": "applied",
+    "follow_up_date": null,
+    "response_received": false
+  },
+  {
+    "job_url": "https://jobs.lever.co/spotify/13277fc6-fde0-48b2-be23-90eb74b17bae",
+    "title": "Product Designer",
+    "company": "Spotify",
+    "applied_at": "2026-01-30T10:45:34.991761",
+    "method": "auto",
+    "documents": {
+      "resume_pdf": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Spotify_Product_Designer_20260130_Resume.pdf",
+      "cover_letter_pdf": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Spotify_Product_Designer_20260130_CoverLetter.pdf",
+      "resume_docx": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Spotify_Product_Designer_20260130_Resume.docx",
+      "resume_html": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Spotify_Product_Designer_20260130_Resume.html"
+    },
+    "success": true,
+    "error": "",
+    "status": "applied",
+    "follow_up_date": null,
+    "response_received": false
+  },
+  {
+    "job_url": "https://jobs.lever.co/spotify/13277fc6-fde0-48b2-be23-90eb74b17bae",
+    "title": "Product Designer",
+    "company": "Spotify",
+    "applied_at": "2026-01-30T10:48:11.065122",
+    "method": "auto",
+    "documents": {
+      "resume_pdf": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Spotify_Product_Designer_20260130_Resume.pdf",
+      "cover_letter_pdf": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Spotify_Product_Designer_20260130_CoverLetter.pdf",
+      "resume_docx": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Spotify_Product_Designer_20260130_Resume.docx",
+      "resume_html": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Spotify_Product_Designer_20260130_Resume.html"
+    },
+    "success": true,
+    "error": "",
+    "status": "applied",
+    "follow_up_date": null,
+    "response_received": false
+  },
+  {
+    "job_url": "https://jobs.lever.co/spotify/13277fc6-fde0-48b2-be23-90eb74b17bae",
+    "title": "Product Designer",
+    "company": "Spotify",
+    "applied_at": "2026-01-30T10:56:30.620955",
+    "method": "auto",
+    "documents": {
+      "resume_pdf": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Spotify_Product_Designer_20260130_Resume.pdf",
+      "cover_letter_pdf": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Spotify_Product_Designer_20260130_CoverLetter.pdf",
+      "resume_docx": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Spotify_Product_Designer_20260130_Resume.docx",
+      "resume_html": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Spotify_Product_Designer_20260130_Resume.html"
+    },
+    "success": true,
+    "error": "",
+    "status": "applied",
+    "follow_up_date": null,
+    "response_received": false
+  },
+  {
+    "job_url": "https://jobs.lever.co/spotify/13277fc6-fde0-48b2-be23-90eb74b17bae",
+    "title": "Product Designer",
+    "company": "Spotify",
+    "applied_at": "2026-01-30T11:00:26.434000",
+    "method": "auto",
+    "documents": {
+      "resume_pdf": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Spotify_Product_Designer_20260130_Resume.pdf",
+      "cover_letter_pdf": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Spotify_Product_Designer_20260130_CoverLetter.pdf",
+      "resume_docx": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Spotify_Product_Designer_20260130_Resume.docx",
+      "resume_html": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Spotify_Product_Designer_20260130_Resume.html"
+    },
+    "success": true,
+    "error": "",
+    "status": "applied",
+    "follow_up_date": null,
+    "response_received": false
+  },
+  {
+    "job_url": "https://jobs.lever.co/spotify/13277fc6-fde0-48b2-be23-90eb74b17bae",
+    "title": "Product Designer",
+    "company": "Spotify",
+    "applied_at": "2026-01-30T11:15:34.874060",
+    "method": "auto",
+    "documents": {
+      "resume_pdf": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Spotify_Product_Designer_20260130_Resume.pdf",
+      "cover_letter_pdf": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Spotify_Product_Designer_20260130_CoverLetter.pdf",
+      "resume_docx": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Spotify_Product_Designer_20260130_Resume.docx",
+      "resume_html": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Spotify_Product_Designer_20260130_Resume.html"
+    },
+    "success": true,
+    "error": "",
+    "status": "applied",
+    "follow_up_date": null,
+    "response_received": false
+  },
+  {
+    "job_url": "https://jobs.lever.co/jobgether/bd121c46-3adc-46e7-b4af-67b76090ce30",
+    "title": "UI/UX Designer",
+    "company": "Jobgether",
+    "applied_at": "2026-01-30T11:24:06.691069",
+    "method": "auto",
+    "documents": {
+      "resume_pdf": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Jobgether_UI_UX_Designer_20260130_Resume.pdf",
+      "cover_letter_pdf": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Jobgether_UI_UX_Designer_20260130_CoverLetter.pdf",
+      "resume_docx": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Jobgether_UI_UX_Designer_20260130_Resume.docx",
+      "resume_html": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Jobgether_UI_UX_Designer_20260130_Resume.html"
+    },
+    "success": false,
+    "error": "Page.fill: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"input[name=\\\"name\\\"]\")\n",
+    "status": "failed",
+    "follow_up_date": null,
+    "response_received": false
+  },
+  {
+    "job_url": "https://jobs.lever.co/jobgether/bd121c46-3adc-46e7-b4af-67b76090ce30",
+    "title": "UI/UX Designer",
+    "company": "Jobgether",
+    "applied_at": "2026-01-30T11:26:36.656339",
+    "method": "auto",
+    "documents": {
+      "resume_pdf": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Jobgether_UI_UX_Designer_20260130_Resume.pdf",
+      "cover_letter_pdf": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Jobgether_UI_UX_Designer_20260130_CoverLetter.pdf",
+      "resume_docx": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Jobgether_UI_UX_Designer_20260130_Resume.docx",
+      "resume_html": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Jobgether_UI_UX_Designer_20260130_Resume.html"
+    },
+    "success": false,
+    "error": "Submit button not found",
+    "status": "failed",
+    "follow_up_date": null,
+    "response_received": false
+  },
+  {
+    "job_url": "https://boards.greenhouse.io/idme/jobs/5722851003",
+    "title": "UX Designer",
+    "company": "ID.me",
+    "applied_at": "2026-01-30T11:41:20.482857",
+    "method": "auto",
+    "documents": {
+      "resume_pdf": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\ID_me_UX_Designer_20260130_Resume.pdf",
+      "cover_letter_pdf": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\ID_me_UX_Designer_20260130_CoverLetter.pdf",
+      "resume_docx": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\ID_me_UX_Designer_20260130_Resume.docx",
+      "resume_html": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\ID_me_UX_Designer_20260130_Resume.html"
+    },
+    "success": false,
+    "error": "Could not find submit button",
+    "status": "failed",
+    "follow_up_date": null,
+    "response_received": false
+  },
+  {
+    "job_url": "https://boards.greenhouse.io/idme/jobs/5722851003",
+    "title": "UX Designer",
+    "company": "ID.me",
+    "applied_at": "2026-01-30T11:43:16.415076",
+    "method": "auto",
+    "documents": {
+      "resume_pdf": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\ID_me_UX_Designer_20260130_Resume.pdf",
+      "cover_letter_pdf": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\ID_me_UX_Designer_20260130_CoverLetter.pdf",
+      "resume_docx": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\ID_me_UX_Designer_20260130_Resume.docx",
+      "resume_html": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\ID_me_UX_Designer_20260130_Resume.html"
+    },
+    "success": false,
+    "error": "Could not find submit button",
+    "status": "failed",
+    "follow_up_date": null,
+    "response_received": false
+  },
+  {
+    "job_url": "https://boards.greenhouse.io/idme/jobs/5722851003",
+    "title": "UX Designer",
+    "company": "ID.me",
+    "applied_at": "2026-01-30T11:45:25.423479",
+    "method": "auto",
+    "documents": {
+      "resume_pdf": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\ID_me_UX_Designer_20260130_Resume.pdf",
+      "cover_letter_pdf": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\ID_me_UX_Designer_20260130_CoverLetter.pdf",
+      "resume_docx": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\ID_me_UX_Designer_20260130_Resume.docx",
+      "resume_html": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\ID_me_UX_Designer_20260130_Resume.html"
+    },
+    "success": false,
+    "error": "Could not find submit button",
+    "status": "failed",
+    "follow_up_date": null,
+    "response_received": false
+  },
+  {
+    "job_url": "https://boards.greenhouse.io/knowbe4/jobs/6513145002",
+    "title": "Senior UX Designer",
+    "company": "KnowBe4",
+    "applied_at": "2026-01-30T11:49:44.188549",
+    "method": "auto",
+    "documents": {
+      "resume_pdf": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\KnowBe4_Senior_UX_Designer_20260130_Resume.pdf",
+      "cover_letter_pdf": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\KnowBe4_Senior_UX_Designer_20260130_CoverLetter.pdf",
+      "resume_docx": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\KnowBe4_Senior_UX_Designer_20260130_Resume.docx",
+      "resume_html": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\KnowBe4_Senior_UX_Designer_20260130_Resume.html"
+    },
+    "success": false,
+    "error": "Job posting is no longer open",
+    "status": "failed",
+    "follow_up_date": null,
+    "response_received": false
+  },
+  {
+    "job_url": "https://jobs.lever.co/owner/31debd05-e895-4cd2-b607-be23e82a68fd",
+    "title": "Product Designer",
+    "company": "Owner",
+    "applied_at": "2026-01-30T11:57:41.041518",
+    "method": "auto",
+    "documents": {
+      "resume_pdf": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Owner_Product_Designer_20260130_Resume.pdf",
+      "cover_letter_pdf": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Owner_Product_Designer_20260130_CoverLetter.pdf",
+      "resume_docx": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Owner_Product_Designer_20260130_Resume.docx",
+      "resume_html": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Owner_Product_Designer_20260130_Resume.html"
+    },
+    "success": true,
+    "error": "",
+    "status": "applied",
+    "follow_up_date": null,
+    "response_received": false
+  },
+  {
+    "job_url": "https://jobs.lever.co/matchgroup/f8cc504d-4585-4d4f-b995-2e12622271c3",
+    "title": "Senior Product Designer",
+    "company": "Match Group",
+    "applied_at": "2026-01-30T12:02:42.597217",
+    "method": "auto",
+    "documents": {
+      "resume_pdf": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Match_Group_Senior_Product_Designer_20260130_Resume.pdf",
+      "cover_letter_pdf": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Match_Group_Senior_Product_Designer_20260130_CoverLetter.pdf",
+      "resume_docx": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Match_Group_Senior_Product_Designer_20260130_Resume.docx",
+      "resume_html": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Match_Group_Senior_Product_Designer_20260130_Resume.html"
+    },
+    "success": false,
+    "error": "",
+    "status": "failed",
+    "follow_up_date": null,
+    "response_received": false
+  },
+  {
+    "job_url": "https://jobs.lever.co/matchgroup/f8cc504d-4585-4d4f-b995-2e12622271c3",
+    "title": "Senior Product Designer",
+    "company": "Match Group",
+    "applied_at": "2026-01-30T12:04:31.093734",
+    "method": "auto",
+    "documents": {
+      "resume_pdf": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Match_Group_Senior_Product_Designer_20260130_Resume.pdf",
+      "cover_letter_pdf": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Match_Group_Senior_Product_Designer_20260130_CoverLetter.pdf",
+      "resume_docx": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Match_Group_Senior_Product_Designer_20260130_Resume.docx",
+      "resume_html": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Match_Group_Senior_Product_Designer_20260130_Resume.html"
+    },
+    "success": false,
+    "error": "",
+    "status": "failed",
+    "follow_up_date": null,
+    "response_received": false
+  },
+  {
+    "job_url": "https://jobs.lever.co/matchgroup/b2a3e5c5-f5d5-4b5a-8e1a-9a3f5b7c6d8e",
+    "title": "Product Designer",
+    "company": "Match Group",
+    "applied_at": "2026-01-30T15:43:40.018519",
+    "method": "auto",
+    "documents": {
+      "resume_pdf": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Match_Group_Product_Designer_20260130_Resume.pdf",
+      "cover_letter_pdf": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Match_Group_Product_Designer_20260130_CoverLetter.pdf",
+      "resume_docx": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Match_Group_Product_Designer_20260130_Resume.docx",
+      "resume_html": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Match_Group_Product_Designer_20260130_Resume.html"
+    },
+    "success": false,
+    "error": "Job posting is no longer open",
+    "status": "failed",
+    "follow_up_date": null,
+    "response_received": false
+  },
+  {
+    "job_url": "https://boards.greenhouse.io/figma/jobs/5750938004",
+    "title": "Brand Designer",
+    "company": "Figma",
+    "applied_at": "2026-01-30T15:50:18.346658",
+    "method": "auto",
+    "documents": {
+      "resume_pdf": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Figma_Brand_Designer_20260130_Resume.pdf",
+      "cover_letter_pdf": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Figma_Brand_Designer_20260130_CoverLetter.pdf",
+      "resume_docx": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Figma_Brand_Designer_20260130_Resume.docx",
+      "resume_html": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Figma_Brand_Designer_20260130_Resume.html"
+    },
+    "success": true,
+    "error": "",
+    "status": "applied",
+    "follow_up_date": null,
+    "response_received": false
+  },
+  {
+    "job_url": "https://test.com/job/789",
+    "title": "Manual Job",
+    "company": "ManualCorp",
+    "applied_at": "2026-01-31T03:32:28.708782",
+    "method": "manual",
+    "documents": {},
+    "success": false,
+    "error": "Test entry",
+    "status": "failed",
+    "follow_up_date": null,
+    "response_received": false
+  },
+  {
+    "job_url": "https://test.com/job/789",
+    "title": "Manual Job",
+    "company": "ManualCorp",
+    "applied_at": "2026-01-31T03:33:33.496470",
+    "method": "manual",
+    "documents": {},
+    "success": false,
+    "error": "Test entry",
+    "status": "failed",
+    "follow_up_date": null,
+    "response_received": false
+  },
+  {
+    "job_url": "https://test.com/job/789",
+    "title": "Manual Job",
+    "company": "ManualCorp",
+    "applied_at": "2026-01-31T03:34:50.217839",
+    "method": "manual",
+    "documents": {},
+    "success": false,
+    "error": "Test entry",
+    "status": "failed",
+    "follow_up_date": null,
+    "response_received": false
+  },
+  {
+    "job_url": "https://test.com/job/789",
+    "title": "Manual Job",
+    "company": "ManualCorp",
+    "applied_at": "2026-01-31T03:41:22.364143",
+    "method": "manual",
+    "documents": {},
+    "success": false,
+    "error": "Test entry",
+    "status": "failed",
+    "follow_up_date": null,
+    "response_received": false
+  },
+  {
+    "job_url": "https://boards.greenhouse.io/gofasti/jobs/5709006004",
+    "title": "Graphic Designer (Remote)",
+    "company": "GoFasti",
+    "applied_at": "2026-01-31T04:03:44.412956",
+    "method": "auto",
+    "documents": {
+      "resume_pdf": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\GoFasti_Graphic_Designer__Remote__20260131_Resume.pdf",
+      "cover_letter_pdf": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\GoFasti_Graphic_Designer__Remote__20260131_CoverLetter.pdf",
+      "resume_docx": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\GoFasti_Graphic_Designer__Remote__20260131_Resume.docx",
+      "resume_html": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\GoFasti_Graphic_Designer__Remote__20260131_Resume.html"
+    },
+    "success": true,
+    "error": "",
+    "status": "applied",
+    "follow_up_date": null,
+    "response_received": false
+  },
+  {
+    "job_url": "https://boards.greenhouse.io/gofasti/jobs/5709006004",
+    "title": "Graphic Designer (Remote)",
+    "company": "GoFasti",
+    "applied_at": "2026-01-31T04:09:04.169943",
+    "method": "auto",
+    "documents": {
+      "resume_pdf": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\GoFasti_Graphic_Designer__Remote__20260131_Resume.pdf",
+      "cover_letter_pdf": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\GoFasti_Graphic_Designer__Remote__20260131_CoverLetter.pdf",
+      "resume_docx": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\GoFasti_Graphic_Designer__Remote__20260131_Resume.docx",
+      "resume_html": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\GoFasti_Graphic_Designer__Remote__20260131_Resume.html"
+    },
+    "success": true,
+    "error": "",
+    "status": "applied",
+    "follow_up_date": null,
+    "response_received": false
+  },
+  {
+    "job_url": "https://boards.greenhouse.io/gofasti/jobs/5709006004",
+    "title": "Graphic Designer (Remote)",
+    "company": "GoFasti",
+    "applied_at": "2026-01-31T04:13:20.566463",
+    "method": "auto",
+    "documents": {
+      "resume_pdf": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\GoFasti_Graphic_Designer__Remote__20260131_Resume.pdf",
+      "cover_letter_pdf": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\GoFasti_Graphic_Designer__Remote__20260131_CoverLetter.pdf",
+      "resume_docx": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\GoFasti_Graphic_Designer__Remote__20260131_Resume.docx",
+      "resume_html": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\GoFasti_Graphic_Designer__Remote__20260131_Resume.html"
+    },
+    "success": false,
+    "error": "",
+    "status": "failed",
+    "follow_up_date": null,
+    "response_received": false
+  },
+  {
+    "job_url": "https://boards.greenhouse.io/jobleads/jobs/7867687002",
+    "title": "Graphic Designer - fully remote",
+    "company": "JobLeads",
+    "applied_at": "2026-01-31T04:14:48.600490",
+    "method": "auto",
+    "documents": {
+      "resume_pdf": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\JobLeads_Graphic_Designer___fully_remote_20260131_Resume.pdf",
+      "cover_letter_pdf": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\JobLeads_Graphic_Designer___fully_remote_20260131_CoverLetter.pdf",
+      "resume_docx": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\JobLeads_Graphic_Designer___fully_remote_20260131_Resume.docx",
+      "resume_html": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\JobLeads_Graphic_Designer___fully_remote_20260131_Resume.html"
+    },
+    "success": false,
+    "error": "",
+    "status": "failed",
+    "follow_up_date": null,
+    "response_received": false
+  },
+  {
+    "job_url": "https://boards.greenhouse.io/gofasti/jobs/5729379004",
+    "title": "Graphic Designer (Remote)",
+    "company": "GoFasti",
+    "applied_at": "2026-01-31T04:16:02.148895",
+    "method": "auto",
+    "documents": {
+      "resume_pdf": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\GoFasti_Graphic_Designer__Remote__20260131_Resume.pdf",
+      "cover_letter_pdf": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\GoFasti_Graphic_Designer__Remote__20260131_CoverLetter.pdf",
+      "resume_docx": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\GoFasti_Graphic_Designer__Remote__20260131_Resume.docx",
+      "resume_html": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\GoFasti_Graphic_Designer__Remote__20260131_Resume.html"
+    },
+    "success": false,
+    "error": "",
+    "status": "failed",
+    "follow_up_date": null,
+    "response_received": false
+  },
+  {
+    "job_url": "https://boards.greenhouse.io/gofasti/jobs/5709006004",
+    "title": "Graphic Designer (Remote)",
+    "company": "GoFasti",
+    "applied_at": "2026-01-31T04:18:45.181999",
+    "method": "auto",
+    "documents": {
+      "resume_pdf": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\GoFasti_Graphic_Designer__Remote__20260131_Resume.pdf",
+      "cover_letter_pdf": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\GoFasti_Graphic_Designer__Remote__20260131_CoverLetter.pdf",
+      "resume_docx": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\GoFasti_Graphic_Designer__Remote__20260131_Resume.docx",
+      "resume_html": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\GoFasti_Graphic_Designer__Remote__20260131_Resume.html"
+    },
+    "success": false,
+    "error": "",
+    "status": "failed",
+    "follow_up_date": null,
+    "response_received": false
+  },
+  {
+    "job_url": "https://boards.greenhouse.io/jobleads/jobs/7867687002",
+    "title": "Graphic Designer - fully remote",
+    "company": "JobLeads",
+    "applied_at": "2026-01-31T04:20:10.760486",
+    "method": "auto",
+    "documents": {
+      "resume_pdf": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\JobLeads_Graphic_Designer___fully_remote_20260131_Resume.pdf",
+      "cover_letter_pdf": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\JobLeads_Graphic_Designer___fully_remote_20260131_CoverLetter.pdf",
+      "resume_docx": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\JobLeads_Graphic_Designer___fully_remote_20260131_Resume.docx",
+      "resume_html": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\JobLeads_Graphic_Designer___fully_remote_20260131_Resume.html"
+    },
+    "success": false,
+    "error": "",
+    "status": "failed",
+    "follow_up_date": null,
+    "response_received": false
+  },
+  {
+    "job_url": "https://boards.greenhouse.io/gofasti/jobs/5729379004",
+    "title": "Graphic Designer (Remote)",
+    "company": "GoFasti",
+    "applied_at": "2026-01-31T04:21:25.478057",
+    "method": "auto",
+    "documents": {
+      "resume_pdf": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\GoFasti_Graphic_Designer__Remote__20260131_Resume.pdf",
+      "cover_letter_pdf": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\GoFasti_Graphic_Designer__Remote__20260131_CoverLetter.pdf",
+      "resume_docx": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\GoFasti_Graphic_Designer__Remote__20260131_Resume.docx",
+      "resume_html": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\GoFasti_Graphic_Designer__Remote__20260131_Resume.html"
+    },
+    "success": false,
+    "error": "",
+    "status": "failed",
+    "follow_up_date": null,
+    "response_received": false
+  },
+  {
+    "job_url": "https://jobs.lever.co/jobgether/1d9671b8-19f7-4354-8d12-ccfd2bf0491b",
+    "title": "Graphic Arts Designer - Remote",
+    "company": "Jobgether",
+    "applied_at": "2026-01-31T04:23:18.484381",
+    "method": "auto",
+    "documents": {
+      "resume_pdf": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Jobgether_Graphic_Arts_Designer___Remote_20260131_Resume.pdf",
+      "cover_letter_pdf": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Jobgether_Graphic_Arts_Designer___Remote_20260131_CoverLetter.pdf",
+      "resume_docx": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Jobgether_Graphic_Arts_Designer___Remote_20260131_Resume.docx",
+      "resume_html": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Jobgether_Graphic_Arts_Designer___Remote_20260131_Resume.html"
+    },
+    "success": false,
+    "error": "Job posting is no longer open",
+    "status": "failed",
+    "follow_up_date": null,
+    "response_received": false
+  },
+  {
+    "job_url": "https://jobs.lever.co/jobgether/073c28d4-9e9f-4f84-a98b-7fdc5c4cddd4",
+    "title": "Graphic Designer (Remote)",
+    "company": "Jobgether",
+    "applied_at": "2026-01-31T04:24:29.356465",
+    "method": "auto",
+    "documents": {
+      "resume_pdf": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Jobgether_Graphic_Designer__Remote__20260131_Resume.pdf",
+      "cover_letter_pdf": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Jobgether_Graphic_Designer__Remote__20260131_CoverLetter.pdf",
+      "resume_docx": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Jobgether_Graphic_Designer__Remote__20260131_Resume.docx",
+      "resume_html": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Jobgether_Graphic_Designer__Remote__20260131_Resume.html"
+    },
+    "success": false,
+    "error": "",
+    "status": "failed",
+    "follow_up_date": null,
+    "response_received": false
+  },
+  {
+    "job_url": "https://jobs.lever.co/jobgether/35adbb3c-2a38-4eb5-9344-1ecba60bc18d",
+    "title": "Remote Graphic Creator",
+    "company": "Jobgether",
+    "applied_at": "2026-01-31T04:25:25.736692",
+    "method": "auto",
+    "documents": {
+      "resume_pdf": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Jobgether_Remote_Graphic_Creator_20260131_Resume.pdf",
+      "cover_letter_pdf": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Jobgether_Remote_Graphic_Creator_20260131_CoverLetter.pdf",
+      "resume_docx": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Jobgether_Remote_Graphic_Creator_20260131_Resume.docx",
+      "resume_html": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Jobgether_Remote_Graphic_Creator_20260131_Resume.html"
+    },
+    "success": false,
+    "error": "Job posting is no longer open",
+    "status": "failed",
+    "follow_up_date": null,
+    "response_received": false
+  },
+  {
+    "job_url": "https://boards.greenhouse.io/gofasti/jobs/5709006004",
+    "title": "Graphic Designer (Remote)",
+    "company": "GoFasti",
+    "applied_at": "2026-01-31T04:30:07.566436",
+    "method": "auto",
+    "documents": {
+      "resume_pdf": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\GoFasti_Graphic_Designer__Remote__20260131_Resume.pdf",
+      "cover_letter_pdf": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\GoFasti_Graphic_Designer__Remote__20260131_CoverLetter.pdf",
+      "resume_docx": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\GoFasti_Graphic_Designer__Remote__20260131_Resume.docx",
+      "resume_html": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\GoFasti_Graphic_Designer__Remote__20260131_Resume.html"
+    },
+    "success": false,
+    "error": "",
+    "status": "failed",
+    "follow_up_date": null,
+    "response_received": false
+  },
+  {
+    "job_url": "https://boards.greenhouse.io/gofasti/jobs/5709006004",
+    "title": "Graphic Designer (Remote)",
+    "company": "GoFasti",
+    "applied_at": "2026-01-31T04:32:40.842979",
+    "method": "auto",
+    "documents": {
+      "resume_pdf": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\GoFasti_Graphic_Designer__Remote__20260131_Resume.pdf",
+      "cover_letter_pdf": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\GoFasti_Graphic_Designer__Remote__20260131_CoverLetter.pdf",
+      "resume_docx": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\GoFasti_Graphic_Designer__Remote__20260131_Resume.docx",
+      "resume_html": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\GoFasti_Graphic_Designer__Remote__20260131_Resume.html"
+    },
+    "success": false,
+    "error": "",
+    "status": "failed",
+    "follow_up_date": null,
+    "response_received": false
+  },
+  {
+    "job_url": "https://boards.greenhouse.io/gofasti/jobs/5709006004",
+    "title": "Graphic Designer (Remote)",
+    "company": "GoFasti",
+    "applied_at": "2026-01-31T04:35:13.051004",
+    "method": "auto",
+    "documents": {
+      "resume_pdf": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\GoFasti_Graphic_Designer__Remote__20260131_Resume.pdf",
+      "cover_letter_pdf": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\GoFasti_Graphic_Designer__Remote__20260131_CoverLetter.pdf",
+      "resume_docx": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\GoFasti_Graphic_Designer__Remote__20260131_Resume.docx",
+      "resume_html": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\GoFasti_Graphic_Designer__Remote__20260131_Resume.html"
+    },
+    "success": true,
+    "error": "",
+    "status": "applied",
+    "follow_up_date": null,
+    "response_received": false
+  },
+  {
+    "job_url": "https://boards.greenhouse.io/gofasti/jobs/5709006004",
+    "title": "Graphic Designer (Remote)",
+    "company": "GoFasti",
+    "applied_at": "2026-01-31T05:20:26.582007",
+    "method": "auto",
+    "documents": {
+      "resume_pdf": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\GoFasti_Graphic_Designer__Remote__20260131_Resume.pdf",
+      "cover_letter_pdf": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\GoFasti_Graphic_Designer__Remote__20260131_CoverLetter.pdf",
+      "resume_docx": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\GoFasti_Graphic_Designer__Remote__20260131_Resume.docx",
+      "resume_html": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\GoFasti_Graphic_Designer__Remote__20260131_Resume.html"
+    },
+    "success": true,
+    "error": "",
+    "status": "applied",
+    "follow_up_date": null,
+    "response_received": false
+  },
+  {
+    "job_url": "https://jobs.lever.co/gethearth/f9d4a6a3-d35e-4c2e-aa42-f5d8fe8e1e31",
+    "title": "Visual Designer",
+    "company": "Hearth",
+    "applied_at": "2026-01-31T05:22:37.685914",
+    "method": "auto",
+    "documents": {
+      "resume_pdf": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Hearth_Visual_Designer_20260131_Resume.pdf",
+      "cover_letter_pdf": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Hearth_Visual_Designer_20260131_CoverLetter.pdf",
+      "resume_docx": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Hearth_Visual_Designer_20260131_Resume.docx",
+      "resume_html": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Hearth_Visual_Designer_20260131_Resume.html"
+    },
+    "success": false,
+    "error": "Job posting is no longer open",
+    "status": "failed",
+    "follow_up_date": null,
+    "response_received": false
+  },
+  {
+    "job_url": "https://boards.greenhouse.io/remotecom/jobs/6272054003",
+    "title": "Senior Brand Designer",
+    "company": "Remote.com",
+    "applied_at": "2026-01-31T05:23:54.918301",
+    "method": "auto",
+    "documents": {
+      "resume_pdf": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Remote_com_Senior_Brand_Designer_20260131_Resume.pdf",
+      "cover_letter_pdf": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Remote_com_Senior_Brand_Designer_20260131_CoverLetter.pdf",
+      "resume_docx": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Remote_com_Senior_Brand_Designer_20260131_Resume.docx",
+      "resume_html": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Remote_com_Senior_Brand_Designer_20260131_Resume.html"
+    },
+    "success": false,
+    "error": "Job posting is no longer open",
+    "status": "failed",
+    "follow_up_date": null,
+    "response_received": false
+  },
+  {
+    "job_url": "https://boards.greenhouse.io/embed/job_app?for=gofasti&token=5709006004",
+    "title": "Graphic Designer (Remote)",
+    "company": "GoFasti",
+    "applied_at": "2026-01-31T05:27:22.058521",
+    "method": "auto",
+    "documents": {
+      "resume_pdf": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\GoFasti_Graphic_Designer__Remote__20260131_Resume.pdf",
+      "cover_letter_pdf": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\GoFasti_Graphic_Designer__Remote__20260131_CoverLetter.pdf",
+      "resume_docx": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\GoFasti_Graphic_Designer__Remote__20260131_Resume.docx",
+      "resume_html": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\GoFasti_Graphic_Designer__Remote__20260131_Resume.html"
+    },
+    "success": false,
+    "error": "Job posting is no longer open",
+    "status": "failed",
+    "follow_up_date": null,
+    "response_received": false
+  },
+  {
+    "job_url": "https://boards.greenhouse.io/embed/job_app?for=gofasti&token=5709006004",
+    "title": "Graphic Designer (Remote)",
+    "company": "GoFasti",
+    "applied_at": "2026-01-31T05:28:42.396000",
+    "method": "auto",
+    "documents": {
+      "resume_pdf": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\GoFasti_Graphic_Designer__Remote__20260131_Resume.pdf",
+      "cover_letter_pdf": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\GoFasti_Graphic_Designer__Remote__20260131_CoverLetter.pdf",
+      "resume_docx": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\GoFasti_Graphic_Designer__Remote__20260131_Resume.docx",
+      "resume_html": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\GoFasti_Graphic_Designer__Remote__20260131_Resume.html"
+    },
+    "success": false,
+    "error": "Job posting is no longer open",
+    "status": "failed",
+    "follow_up_date": null,
+    "response_received": false
+  },
+  {
+    "job_url": "https://boards.greenhouse.io/embed/job_app?for=carta&token=6431076",
+    "title": "Graphic Designer",
+    "company": "Carta",
+    "applied_at": "2026-01-31T05:56:00.209604",
+    "method": "auto",
+    "documents": {
+      "resume_pdf": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Carta_Graphic_Designer_20260131_Resume.pdf",
+      "cover_letter_pdf": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Carta_Graphic_Designer_20260131_CoverLetter.pdf",
+      "resume_docx": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Carta_Graphic_Designer_20260131_Resume.docx",
+      "resume_html": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Carta_Graphic_Designer_20260131_Resume.html"
+    },
+    "success": false,
+    "error": "Job posting is no longer open",
+    "status": "failed",
+    "follow_up_date": null,
+    "response_received": false
+  },
+  {
+    "job_url": "https://boards.greenhouse.io/podium81/jobs/6325659003",
+    "title": "Graphic Designer",
+    "company": "Podium",
+    "applied_at": "2026-01-31T05:57:25.565444",
+    "method": "auto",
+    "documents": {
+      "resume_pdf": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Podium_Graphic_Designer_20260131_Resume.pdf",
+      "cover_letter_pdf": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Podium_Graphic_Designer_20260131_CoverLetter.pdf",
+      "resume_docx": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Podium_Graphic_Designer_20260131_Resume.docx",
+      "resume_html": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Podium_Graphic_Designer_20260131_Resume.html"
+    },
+    "success": false,
+    "error": "Job posting is no longer open",
+    "status": "failed",
+    "follow_up_date": null,
+    "response_received": false
+  },
+  {
+    "job_url": "https://boards.greenhouse.io/embed/job_app?for=dropbox&token=6536539",
+    "title": "Brand Designer",
+    "company": "Dropbox",
+    "applied_at": "2026-01-31T05:58:29.635539",
+    "method": "auto",
+    "documents": {
+      "resume_pdf": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Dropbox_Brand_Designer_20260131_Resume.pdf",
+      "cover_letter_pdf": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Dropbox_Brand_Designer_20260131_CoverLetter.pdf",
+      "resume_docx": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Dropbox_Brand_Designer_20260131_Resume.docx",
+      "resume_html": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Dropbox_Brand_Designer_20260131_Resume.html"
+    },
+    "success": false,
+    "error": "Job posting is no longer open",
+    "status": "failed",
+    "follow_up_date": null,
+    "response_received": false
+  },
+  {
+    "job_url": "https://boards.greenhouse.io/embed/job_app?for=plaid&token=6123456",
+    "title": "Visual Designer",
+    "company": "Plaid",
+    "applied_at": "2026-01-31T05:58:41.677134",
+    "method": "auto",
+    "documents": {
+      "resume_pdf": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Plaid_Visual_Designer_20260131_Resume.pdf",
+      "cover_letter_pdf": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Plaid_Visual_Designer_20260131_CoverLetter.pdf",
+      "resume_docx": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Plaid_Visual_Designer_20260131_Resume.docx",
+      "resume_html": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Plaid_Visual_Designer_20260131_Resume.html"
+    },
+    "success": false,
+    "error": "Job posting is no longer open",
+    "status": "failed",
+    "follow_up_date": null,
+    "response_received": false
+  },
+  {
+    "job_url": "https://boards.greenhouse.io/embed/job_app?for=figma&token=5987654",
+    "title": "Product Designer",
+    "company": "Figma",
+    "applied_at": "2026-01-31T05:58:54.395445",
+    "method": "auto",
+    "documents": {
+      "resume_pdf": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Figma_Product_Designer_20260131_Resume.pdf",
+      "cover_letter_pdf": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Figma_Product_Designer_20260131_CoverLetter.pdf",
+      "resume_docx": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Figma_Product_Designer_20260131_Resume.docx",
+      "resume_html": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Figma_Product_Designer_20260131_Resume.html"
+    },
+    "success": false,
+    "error": "Job posting is no longer open",
+    "status": "failed",
+    "follow_up_date": null,
+    "response_received": false
+  },
+  {
+    "job_url": "https://jobs.lever.co/gofasti/5709006004",
+    "title": "Visual Designer",
+    "company": "GoFasti",
+    "applied_at": "2026-01-31T06:05:00.865204",
+    "method": "auto",
+    "documents": {
+      "resume_pdf": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\GoFasti_Visual_Designer_20260131_Resume.pdf",
+      "cover_letter_pdf": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\GoFasti_Visual_Designer_20260131_CoverLetter.pdf",
+      "resume_docx": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\GoFasti_Visual_Designer_20260131_Resume.docx",
+      "resume_html": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\GoFasti_Visual_Designer_20260131_Resume.html"
+    },
+    "success": false,
+    "error": "Job posting is no longer open",
+    "status": "failed",
+    "follow_up_date": null,
+    "response_received": false
+  },
+  {
+    "job_url": "https://boards.greenhouse.io/embed/job_app?for=remotecom&token=6272054003",
+    "title": "Brand Designer",
+    "company": "Remote.com",
+    "applied_at": "2026-01-31T06:06:19.700009",
+    "method": "auto",
+    "documents": {
+      "resume_pdf": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Remote_com_Brand_Designer_20260131_Resume.pdf",
+      "cover_letter_pdf": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Remote_com_Brand_Designer_20260131_CoverLetter.pdf",
+      "resume_docx": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Remote_com_Brand_Designer_20260131_Resume.docx",
+      "resume_html": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Remote_com_Brand_Designer_20260131_Resume.html"
+    },
+    "success": false,
+    "error": "Job posting is no longer open",
+    "status": "failed",
+    "follow_up_date": null,
+    "response_received": false
+  },
+  {
+    "job_url": "https://jobs.lever.co/spotify/a1b2c3d4-5678-90ab-cdef-1234567890ab",
+    "title": "Visual Designer",
+    "company": "Spotify",
+    "applied_at": "2026-01-31T06:06:34.510894",
+    "method": "auto",
+    "documents": {
+      "resume_pdf": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Spotify_Visual_Designer_20260131_Resume.pdf",
+      "cover_letter_pdf": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Spotify_Visual_Designer_20260131_CoverLetter.pdf",
+      "resume_docx": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Spotify_Visual_Designer_20260131_Resume.docx",
+      "resume_html": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Spotify_Visual_Designer_20260131_Resume.html"
+    },
+    "success": false,
+    "error": "Job posting is no longer open",
+    "status": "failed",
+    "follow_up_date": null,
+    "response_received": false
+  },
+  {
+    "job_url": "https://salesforce.wd12.myworkdayjobs.com/en-US/Futureforce_Internships/job/Designer",
+    "title": "UX Designer",
+    "company": "Salesforce",
+    "applied_at": "2026-01-31T06:07:24.848403",
+    "method": "auto",
+    "documents": {
+      "resume_pdf": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Salesforce_UX_Designer_20260131_Resume.pdf",
+      "cover_letter_pdf": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Salesforce_UX_Designer_20260131_CoverLetter.pdf",
+      "resume_docx": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Salesforce_UX_Designer_20260131_Resume.docx",
+      "resume_html": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\Salesforce_UX_Designer_20260131_Resume.html"
+    },
+    "success": false,
+    "error": "",
+    "status": "failed",
+    "follow_up_date": null,
+    "response_received": false
+  },
+  {
+    "job_url": "https://boards.greenhouse.io/gofasti/jobs/5729379004",
+    "title": "Graphic Designer (Remote)",
+    "company": "GoFasti",
+    "applied_at": "2026-01-31T06:09:10.577361",
+    "method": "auto",
+    "documents": {
+      "resume_pdf": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\GoFasti_Graphic_Designer__Remote__20260131_Resume.pdf",
+      "cover_letter_pdf": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\GoFasti_Graphic_Designer__Remote__20260131_CoverLetter.pdf",
+      "resume_docx": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\GoFasti_Graphic_Designer__Remote__20260131_Resume.docx",
+      "resume_html": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\GoFasti_Graphic_Designer__Remote__20260131_Resume.html"
+    },
+    "success": true,
+    "error": "",
+    "status": "applied",
+    "follow_up_date": null,
+    "response_received": false
+  },
+  {
+    "job_url": "https://boards.greenhouse.io/jobleads/jobs/7867687002",
+    "title": "Graphic Designer - fully remote",
+    "company": "JobLeads",
+    "applied_at": "2026-01-31T06:09:40.553949",
+    "method": "auto",
+    "documents": {
+      "resume_pdf": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\JobLeads_Graphic_Designer___fully_remote_20260131_Resume.pdf",
+      "cover_letter_pdf": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\JobLeads_Graphic_Designer___fully_remote_20260131_CoverLetter.pdf",
+      "resume_docx": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\JobLeads_Graphic_Designer___fully_remote_20260131_Resume.docx",
+      "resume_html": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\JobLeads_Graphic_Designer___fully_remote_20260131_Resume.html"
+    },
+    "success": false,
+    "error": "Job posting is no longer open",
+    "status": "failed",
+    "follow_up_date": null,
+    "response_received": false
+  },
+  {
+    "job_url": "https://boards.greenhouse.io/shopltk/jobs/5186247003",
+    "title": "Graphic Designer",
+    "company": "LTK USA",
+    "applied_at": "2026-01-31T06:09:56.581375",
+    "method": "auto",
+    "documents": {
+      "resume_pdf": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\LTK_USA_Graphic_Designer_20260131_Resume.pdf",
+      "cover_letter_pdf": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\LTK_USA_Graphic_Designer_20260131_CoverLetter.pdf",
+      "resume_docx": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\LTK_USA_Graphic_Designer_20260131_Resume.docx",
+      "resume_html": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\LTK_USA_Graphic_Designer_20260131_Resume.html"
+    },
+    "success": false,
+    "error": "Job posting is no longer open",
+    "status": "failed",
+    "follow_up_date": null,
+    "response_received": false
+  },
+  {
+    "job_url": "https://www.linkedin.com/jobs/view/brand-designer-at-vumedi-4335836027/",
+    "title": "Brand Designer",
+    "company": "VuMedi",
+    "applied_at": "2026-01-31T06:19:01.967226",
+    "method": "auto",
+    "documents": {
+      "resume_pdf": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\VuMedi_Brand_Designer_20260131_Resume.pdf",
+      "cover_letter_pdf": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\VuMedi_Brand_Designer_20260131_CoverLetter.pdf",
+      "resume_docx": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\VuMedi_Brand_Designer_20260131_Resume.docx",
+      "resume_html": "C:\\Users\\deann\\clawd\\job-assistant\\skills\\..\\data\\applications\\VuMedi_Brand_Designer_20260131_Resume.html"
+    },
+    "success": false,
+    "error": "",
+    "status": "failed",
+    "follow_up_date": null,
+    "response_received": false
+  }
+]

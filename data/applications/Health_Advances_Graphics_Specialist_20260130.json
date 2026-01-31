@@ -1,0 +1,33 @@
+{
+  "job_title": "Graphics Specialist",
+  "company": "Health Advances",
+  "location": "San Francisco, CA",
+  "application_date": "2026-01-30",
+  "status": "preparing",
+  "salary_range": {
+    "min": 60000,
+    "max": 70000,
+    "currency": "USD",
+    "bonus": "0-4200"
+  },
+  "documents": {
+    "resume": "Health_Advances_Graphics_Specialist_20260130_Resume.pdf",
+    "cover_letter": "Health_Advances_Graphics_Specialist_20260130_CoverLetter.pdf"
+  },
+  "follow_up": {
+    "confirmation_received": false,
+    "confirmation_email": null,
+    "follow_up_date": "2026-02-06",
+    "notes": "Waiting for application submission and confirmation"
+  },
+  "requirements_met": {
+    "education": true,
+    "experience": true,
+    "skills": {
+      "powerpoint": true,
+      "adobe_creative_suite": true,
+      "presentation_design": true,
+      "brand_consistency": true
+    }
+  }
+}

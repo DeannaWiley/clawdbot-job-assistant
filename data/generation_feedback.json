@@ -1,0 +1,888 @@
+{
+  "generations": [
+    {
+      "timestamp": "2026-01-30T08:21:13.910293",
+      "doc_type": "full_application",
+      "job_title": "Graphic Designer",
+      "company": "ACME Corp",
+      "content_hash": "-6646101348730635771",
+      "success": true,
+      "feedback": null,
+      "score": null
+    },
+    {
+      "timestamp": "2026-01-30T08:24:56.204770",
+      "doc_type": "full_application",
+      "job_title": "Senior Designer",
+      "company": "Netflix",
+      "content_hash": "7332193101516690439",
+      "success": true,
+      "feedback": null,
+      "score": null
+    },
+    {
+      "timestamp": "2026-01-30T08:27:28.561772",
+      "doc_type": "full_application",
+      "job_title": "Brand Designer",
+      "company": "Spotify",
+      "content_hash": "-2554710632300590019",
+      "success": true,
+      "feedback": null,
+      "score": null
+    },
+    {
+      "timestamp": "2026-01-30T08:31:26.926674",
+      "doc_type": "full_application",
+      "job_title": "UX Designer",
+      "company": "Google",
+      "content_hash": "6524833946263942127",
+      "success": true,
+      "feedback": null,
+      "score": null
+    },
+    {
+      "timestamp": "2026-01-30T09:14:48.848401",
+      "doc_type": "full_application",
+      "job_title": "Product Designer II - Strategic AI Partnerships",
+      "company": "Spotify",
+      "content_hash": "7089363822649033816",
+      "success": true,
+      "feedback": null,
+      "score": null
+    },
+    {
+      "timestamp": "2026-01-30T10:28:29.314315",
+      "doc_type": "full_application",
+      "job_title": "Product Designer",
+      "company": "Spotify",
+      "content_hash": "6312804291100470997",
+      "success": true,
+      "feedback": null,
+      "score": null
+    },
+    {
+      "timestamp": "2026-01-30T10:32:30.627128",
+      "doc_type": "full_application",
+      "job_title": "Product Designer",
+      "company": "Spotify",
+      "content_hash": "-5710273400291754475",
+      "success": true,
+      "feedback": null,
+      "score": null
+    },
+    {
+      "timestamp": "2026-01-30T10:35:41.415350",
+      "doc_type": "full_application",
+      "job_title": "Product Designer",
+      "company": "Spotify",
+      "content_hash": "5383690250635869483",
+      "success": true,
+      "feedback": null,
+      "score": null
+    },
+    {
+      "timestamp": "2026-01-30T10:41:36.734985",
+      "doc_type": "full_application",
+      "job_title": "Product Designer",
+      "company": "Spotify",
+      "content_hash": "4878427717975255966",
+      "success": true,
+      "feedback": null,
+      "score": null
+    },
+    {
+      "timestamp": "2026-01-30T10:41:46.776705",
+      "doc_type": "full_application",
+      "job_title": "Product Designer",
+      "company": "Spotify",
+      "content_hash": "8756418911691220187",
+      "success": true,
+      "feedback": null,
+      "score": null
+    },
+    {
+      "timestamp": "2026-01-30T10:44:30.921323",
+      "doc_type": "full_application",
+      "job_title": "Product Designer",
+      "company": "Spotify",
+      "content_hash": "-737972320580172674",
+      "success": true,
+      "feedback": null,
+      "score": null
+    },
+    {
+      "timestamp": "2026-01-30T10:47:16.153670",
+      "doc_type": "full_application",
+      "job_title": "Product Designer",
+      "company": "Spotify",
+      "content_hash": "3165020210189515796",
+      "success": true,
+      "feedback": null,
+      "score": null
+    },
+    {
+      "timestamp": "2026-01-30T10:55:30.860344",
+      "doc_type": "full_application",
+      "job_title": "Product Designer",
+      "company": "Spotify",
+      "content_hash": "4511100871838735569",
+      "success": true,
+      "feedback": null,
+      "score": null
+    },
+    {
+      "timestamp": "2026-01-30T10:58:09.427286",
+      "doc_type": "full_application",
+      "job_title": "Product Designer",
+      "company": "Spotify",
+      "content_hash": "4428554905937239167",
+      "success": true,
+      "feedback": null,
+      "score": null
+    },
+    {
+      "timestamp": "2026-01-30T11:13:55.218259",
+      "doc_type": "full_application",
+      "job_title": "Product Designer",
+      "company": "Spotify",
+      "content_hash": "6027104912757382546",
+      "success": true,
+      "feedback": null,
+      "score": null
+    },
+    {
+      "timestamp": "2026-01-30T11:23:32.127513",
+      "doc_type": "full_application",
+      "job_title": "UI/UX Designer",
+      "company": "Jobgether",
+      "content_hash": "-6416888690586912125",
+      "success": true,
+      "feedback": null,
+      "score": null
+    },
+    {
+      "timestamp": "2026-01-30T11:26:17.179480",
+      "doc_type": "full_application",
+      "job_title": "UI/UX Designer",
+      "company": "Jobgether",
+      "content_hash": "9177563945814757469",
+      "success": true,
+      "feedback": null,
+      "score": null
+    },
+    {
+      "timestamp": "2026-01-30T11:28:03.506950",
+      "doc_type": "full_application",
+      "job_title": "Product Designer",
+      "company": "Spotify",
+      "content_hash": "-491780936916396422",
+      "success": true,
+      "feedback": null,
+      "score": null
+    },
+    {
+      "timestamp": "2026-01-30T11:37:02.446690",
+      "doc_type": "full_application",
+      "job_title": "Product Designer",
+      "company": "Spotify",
+      "content_hash": "2293083980121930993",
+      "success": true,
+      "feedback": null,
+      "score": null
+    },
+    {
+      "timestamp": "2026-01-30T11:41:09.611687",
+      "doc_type": "full_application",
+      "job_title": "UX Designer",
+      "company": "ID.me",
+      "content_hash": "-8368971273999586647",
+      "success": true,
+      "feedback": null,
+      "score": null
+    },
+    {
+      "timestamp": "2026-01-30T11:43:04.271625",
+      "doc_type": "full_application",
+      "job_title": "UX Designer",
+      "company": "ID.me",
+      "content_hash": "-4210563372035986062",
+      "success": true,
+      "feedback": null,
+      "score": null
+    },
+    {
+      "timestamp": "2026-01-30T11:45:02.658080",
+      "doc_type": "full_application",
+      "job_title": "UX Designer",
+      "company": "ID.me",
+      "content_hash": "5152295899508863912",
+      "success": true,
+      "feedback": null,
+      "score": null
+    },
+    {
+      "timestamp": "2026-01-30T11:49:36.194355",
+      "doc_type": "full_application",
+      "job_title": "Senior UX Designer",
+      "company": "KnowBe4",
+      "content_hash": "6151680936947585303",
+      "success": true,
+      "feedback": null,
+      "score": null
+    },
+    {
+      "timestamp": "2026-01-30T11:51:07.407534",
+      "doc_type": "full_application",
+      "job_title": "Product Designer",
+      "company": "Owner",
+      "content_hash": "-6362384652706091953",
+      "success": true,
+      "feedback": null,
+      "score": null
+    },
+    {
+      "timestamp": "2026-01-30T12:02:29.315431",
+      "doc_type": "full_application",
+      "job_title": "Senior Product Designer",
+      "company": "Match Group",
+      "content_hash": "6018602664729305737",
+      "success": true,
+      "feedback": null,
+      "score": null
+    },
+    {
+      "timestamp": "2026-01-30T12:04:23.062139",
+      "doc_type": "full_application",
+      "job_title": "Senior Product Designer",
+      "company": "Match Group",
+      "content_hash": "993951926783618809",
+      "success": true,
+      "feedback": null,
+      "score": null
+    },
+    {
+      "timestamp": "2026-01-30T12:09:15.923987",
+      "doc_type": "full_application",
+      "job_title": "Product Designer",
+      "company": "Owner",
+      "content_hash": "3780452036529256491",
+      "success": true,
+      "feedback": null,
+      "score": null
+    },
+    {
+      "timestamp": "2026-01-30T12:11:34.823817",
+      "doc_type": "full_application",
+      "job_title": "Product Designer",
+      "company": "Owner",
+      "content_hash": "-6820347627942507692",
+      "success": true,
+      "feedback": null,
+      "score": null
+    },
+    {
+      "timestamp": "2026-01-30T15:36:15.713141",
+      "doc_type": "full_application",
+      "job_title": "Designer",
+      "company": "TestCo",
+      "content_hash": "-2295409421256930923",
+      "success": true,
+      "feedback": null,
+      "score": null
+    },
+    {
+      "timestamp": "2026-01-30T15:43:37.024913",
+      "doc_type": "full_application",
+      "job_title": "Product Designer",
+      "company": "Match Group",
+      "content_hash": "1764341894058797116",
+      "success": true,
+      "feedback": null,
+      "score": null
+    },
+    {
+      "timestamp": "2026-01-30T15:49:08.605238",
+      "doc_type": "full_application",
+      "job_title": "Brand Designer",
+      "company": "Figma",
+      "content_hash": "-8474306290558190325",
+      "success": true,
+      "feedback": null,
+      "score": null
+    },
+    {
+      "timestamp": "2026-01-31T03:21:01.989325",
+      "doc_type": "full_application",
+      "job_title": "Test Position",
+      "company": "TestCorp",
+      "content_hash": "7615932419662919489",
+      "success": true,
+      "feedback": null,
+      "score": null
+    },
+    {
+      "timestamp": "2026-01-31T03:22:52.025011",
+      "doc_type": "full_application",
+      "job_title": "Test Position",
+      "company": "TestCorp",
+      "content_hash": "4004547005883226133",
+      "success": true,
+      "feedback": null,
+      "score": null
+    },
+    {
+      "timestamp": "2026-01-31T03:33:10.960673",
+      "doc_type": "full_application",
+      "job_title": "Test Designer",
+      "company": "TestCorp",
+      "content_hash": "5484332759919960424",
+      "success": true,
+      "feedback": null,
+      "score": null
+    },
+    {
+      "timestamp": "2026-01-31T03:34:18.304949",
+      "doc_type": "full_application",
+      "job_title": "Test Designer",
+      "company": "TestCorp",
+      "content_hash": "4128698272022945457",
+      "success": true,
+      "feedback": null,
+      "score": null
+    },
+    {
+      "timestamp": "2026-01-31T03:35:26.667232",
+      "doc_type": "full_application",
+      "job_title": "Test Designer",
+      "company": "TestCorp",
+      "content_hash": "6869657438452845017",
+      "success": true,
+      "feedback": null,
+      "score": null
+    },
+    {
+      "timestamp": "2026-01-31T03:42:04.733729",
+      "doc_type": "full_application",
+      "job_title": "Test Designer",
+      "company": "TestCorp",
+      "content_hash": "-7251896948322664572",
+      "success": true,
+      "feedback": null,
+      "score": null
+    },
+    {
+      "timestamp": "2026-01-31T04:03:16.223052",
+      "doc_type": "full_application",
+      "job_title": "Graphic Designer (Remote)",
+      "company": "GoFasti",
+      "content_hash": "-6604385024441117139",
+      "success": true,
+      "feedback": null,
+      "score": null
+    },
+    {
+      "timestamp": "2026-01-31T04:08:36.512259",
+      "doc_type": "full_application",
+      "job_title": "Graphic Designer (Remote)",
+      "company": "GoFasti",
+      "content_hash": "694899801196092559",
+      "success": true,
+      "feedback": null,
+      "score": null
+    },
+    {
+      "timestamp": "2026-01-31T04:12:52.732500",
+      "doc_type": "full_application",
+      "job_title": "Graphic Designer (Remote)",
+      "company": "GoFasti",
+      "content_hash": "4054939913285362873",
+      "success": true,
+      "feedback": null,
+      "score": null
+    },
+    {
+      "timestamp": "2026-01-31T04:14:12.289854",
+      "doc_type": "full_application",
+      "job_title": "Graphic Designer - fully remote",
+      "company": "JobLeads",
+      "content_hash": "-1047016147647860156",
+      "success": true,
+      "feedback": null,
+      "score": null
+    },
+    {
+      "timestamp": "2026-01-31T04:15:34.865335",
+      "doc_type": "full_application",
+      "job_title": "Graphic Designer (Remote)",
+      "company": "GoFasti",
+      "content_hash": "8517074496707552832",
+      "success": true,
+      "feedback": null,
+      "score": null
+    },
+    {
+      "timestamp": "2026-01-31T04:18:17.630479",
+      "doc_type": "full_application",
+      "job_title": "Graphic Designer (Remote)",
+      "company": "GoFasti",
+      "content_hash": "-4271582481681410487",
+      "success": true,
+      "feedback": null,
+      "score": null
+    },
+    {
+      "timestamp": "2026-01-31T04:19:34.923943",
+      "doc_type": "full_application",
+      "job_title": "Graphic Designer - fully remote",
+      "company": "JobLeads",
+      "content_hash": "6921746569670638852",
+      "success": true,
+      "feedback": null,
+      "score": null
+    },
+    {
+      "timestamp": "2026-01-31T04:20:58.261907",
+      "doc_type": "full_application",
+      "job_title": "Graphic Designer (Remote)",
+      "company": "GoFasti",
+      "content_hash": "-6111335883628492375",
+      "success": true,
+      "feedback": null,
+      "score": null
+    },
+    {
+      "timestamp": "2026-01-31T04:23:15.582630",
+      "doc_type": "full_application",
+      "job_title": "Graphic Arts Designer - Remote",
+      "company": "Jobgether",
+      "content_hash": "-9173805977323734098",
+      "success": true,
+      "feedback": null,
+      "score": null
+    },
+    {
+      "timestamp": "2026-01-31T04:24:09.462442",
+      "doc_type": "full_application",
+      "job_title": "Graphic Designer (Remote)",
+      "company": "Jobgether",
+      "content_hash": "8063574273273940331",
+      "success": true,
+      "feedback": null,
+      "score": null
+    },
+    {
+      "timestamp": "2026-01-31T04:25:23.004798",
+      "doc_type": "full_application",
+      "job_title": "Remote Graphic Creator",
+      "company": "Jobgether",
+      "content_hash": "-1010731923800112383",
+      "success": true,
+      "feedback": null,
+      "score": null
+    },
+    {
+      "timestamp": "2026-01-31T04:29:39.843944",
+      "doc_type": "full_application",
+      "job_title": "Graphic Designer (Remote)",
+      "company": "GoFasti",
+      "content_hash": "-7509703487728193829",
+      "success": true,
+      "feedback": null,
+      "score": null
+    },
+    {
+      "timestamp": "2026-01-31T04:32:13.111115",
+      "doc_type": "full_application",
+      "job_title": "Graphic Designer (Remote)",
+      "company": "GoFasti",
+      "content_hash": "-1843325864709466723",
+      "success": true,
+      "feedback": null,
+      "score": null
+    },
+    {
+      "timestamp": "2026-01-31T04:34:45.125446",
+      "doc_type": "full_application",
+      "job_title": "Graphic Designer (Remote)",
+      "company": "GoFasti",
+      "content_hash": "2304718288805579387",
+      "success": true,
+      "feedback": null,
+      "score": null
+    },
+    {
+      "timestamp": "2026-01-31T05:19:57.412804",
+      "doc_type": "full_application",
+      "job_title": "Graphic Designer (Remote)",
+      "company": "GoFasti",
+      "content_hash": "5733456823997013968",
+      "success": true,
+      "feedback": null,
+      "score": null
+    },
+    {
+      "timestamp": "2026-01-31T05:22:28.544981",
+      "doc_type": "full_application",
+      "job_title": "Visual Designer",
+      "company": "Hearth",
+      "content_hash": "-3228402936550523920",
+      "success": true,
+      "feedback": null,
+      "score": null
+    },
+    {
+      "timestamp": "2026-01-31T05:23:47.939542",
+      "doc_type": "full_application",
+      "job_title": "Senior Brand Designer",
+      "company": "Remote.com",
+      "content_hash": "3215953096926118263",
+      "success": true,
+      "feedback": null,
+      "score": null
+    },
+    {
+      "timestamp": "2026-01-31T05:27:18.824941",
+      "doc_type": "full_application",
+      "job_title": "Graphic Designer (Remote)",
+      "company": "GoFasti",
+      "content_hash": "-8724093097855716352",
+      "success": true,
+      "feedback": null,
+      "score": null
+    },
+    {
+      "timestamp": "2026-01-31T05:28:39.107263",
+      "doc_type": "full_application",
+      "job_title": "Graphic Designer (Remote)",
+      "company": "GoFasti",
+      "content_hash": "4651769428310470063",
+      "success": true,
+      "feedback": null,
+      "score": null
+    },
+    {
+      "timestamp": "2026-01-31T05:44:28.482248",
+      "doc_type": "full_application",
+      "job_title": "Senior Graphic Designer",
+      "company": "Creative Agency Inc",
+      "content_hash": "576035174850915311",
+      "success": true,
+      "feedback": null,
+      "score": null
+    },
+    {
+      "timestamp": "2026-01-31T05:46:41.732987",
+      "doc_type": "full_application",
+      "job_title": "Senior Graphic Designer",
+      "company": "Creative Agency Inc",
+      "content_hash": "8921740714427571978",
+      "success": true,
+      "feedback": null,
+      "score": null
+    },
+    {
+      "timestamp": "2026-01-31T05:47:39.328106",
+      "doc_type": "full_application",
+      "job_title": "Senior Graphic Designer",
+      "company": "Creative Agency Inc",
+      "content_hash": "3419780252475879777",
+      "success": true,
+      "feedback": null,
+      "score": null
+    },
+    {
+      "timestamp": "2026-01-31T05:50:13.580016",
+      "doc_type": "full_application",
+      "job_title": "Senior Graphic Designer",
+      "company": "Creative Agency Inc",
+      "content_hash": "622780279252153009",
+      "success": true,
+      "feedback": null,
+      "score": null
+    },
+    {
+      "timestamp": "2026-01-31T05:55:14.002186",
+      "doc_type": "full_application",
+      "job_title": "Graphic Designer",
+      "company": "Carta",
+      "content_hash": "3778345951214815586",
+      "success": true,
+      "feedback": null,
+      "score": null
+    },
+    {
+      "timestamp": "2026-01-31T05:55:49.148064",
+      "doc_type": "full_application",
+      "job_title": "Graphic Designer",
+      "company": "Carta",
+      "content_hash": "4093288801840580894",
+      "success": true,
+      "feedback": null,
+      "score": null
+    },
+    {
+      "timestamp": "2026-01-31T05:55:57.016666",
+      "doc_type": "full_application",
+      "job_title": "Graphic Designer",
+      "company": "Carta",
+      "content_hash": "-8706903809642676315",
+      "success": true,
+      "feedback": null,
+      "score": null
+    },
+    {
+      "timestamp": "2026-01-31T05:56:38.935808",
+      "doc_type": "full_application",
+      "job_title": "Graphic Designer",
+      "company": "Podium",
+      "content_hash": "4272918060882845465",
+      "success": true,
+      "feedback": null,
+      "score": null
+    },
+    {
+      "timestamp": "2026-01-31T05:57:16.877133",
+      "doc_type": "full_application",
+      "job_title": "Graphic Designer",
+      "company": "Podium",
+      "content_hash": "-5665344612238836954",
+      "success": true,
+      "feedback": null,
+      "score": null
+    },
+    {
+      "timestamp": "2026-01-31T05:57:21.458851",
+      "doc_type": "full_application",
+      "job_title": "Graphic Designer",
+      "company": "Podium",
+      "content_hash": "-2517252122628980001",
+      "success": true,
+      "feedback": null,
+      "score": null
+    },
+    {
+      "timestamp": "2026-01-31T05:58:20.727154",
+      "doc_type": "full_application",
+      "job_title": "Brand Designer",
+      "company": "Dropbox",
+      "content_hash": "4710951179291837672",
+      "success": true,
+      "feedback": null,
+      "score": null
+    },
+    {
+      "timestamp": "2026-01-31T05:58:26.437098",
+      "doc_type": "full_application",
+      "job_title": "Brand Designer",
+      "company": "Dropbox",
+      "content_hash": "3872899160016877856",
+      "success": true,
+      "feedback": null,
+      "score": null
+    },
+    {
+      "timestamp": "2026-01-31T05:58:34.264215",
+      "doc_type": "full_application",
+      "job_title": "Visual Designer",
+      "company": "Plaid",
+      "content_hash": "5225992144508277503",
+      "success": true,
+      "feedback": null,
+      "score": null
+    },
+    {
+      "timestamp": "2026-01-31T05:58:38.710269",
+      "doc_type": "full_application",
+      "job_title": "Visual Designer",
+      "company": "Plaid",
+      "content_hash": "4620574286096582796",
+      "success": true,
+      "feedback": null,
+      "score": null
+    },
+    {
+      "timestamp": "2026-01-31T05:58:46.096955",
+      "doc_type": "full_application",
+      "job_title": "Product Designer",
+      "company": "Figma",
+      "content_hash": "6786043917330647335",
+      "success": true,
+      "feedback": null,
+      "score": null
+    },
+    {
+      "timestamp": "2026-01-31T05:58:51.112311",
+      "doc_type": "full_application",
+      "job_title": "Product Designer",
+      "company": "Figma",
+      "content_hash": "8428869762577324722",
+      "success": true,
+      "feedback": null,
+      "score": null
+    },
+    {
+      "timestamp": "2026-01-31T06:00:18.353503",
+      "doc_type": "full_application",
+      "job_title": "Senior Graphic Designer",
+      "company": "Creative Agency Inc",
+      "content_hash": "582708215698893449",
+      "success": true,
+      "feedback": null,
+      "score": null
+    },
+    {
+      "timestamp": "2026-01-31T06:04:52.901459",
+      "doc_type": "full_application",
+      "job_title": "Visual Designer",
+      "company": "GoFasti",
+      "content_hash": "7665127674563314733",
+      "success": true,
+      "feedback": null,
+      "score": null
+    },
+    {
+      "timestamp": "2026-01-31T06:04:57.518943",
+      "doc_type": "full_application",
+      "job_title": "Visual Designer",
+      "company": "GoFasti",
+      "content_hash": "4503591622633198487",
+      "success": true,
+      "feedback": null,
+      "score": null
+    },
+    {
+      "timestamp": "2026-01-31T06:06:11.073138",
+      "doc_type": "full_application",
+      "job_title": "Brand Designer",
+      "company": "Remote.com",
+      "content_hash": "6960990114036054886",
+      "success": true,
+      "feedback": null,
+      "score": null
+    },
+    {
+      "timestamp": "2026-01-31T06:06:15.993196",
+      "doc_type": "full_application",
+      "job_title": "Brand Designer",
+      "company": "Remote.com",
+      "content_hash": "4249324261848185448",
+      "success": true,
+      "feedback": null,
+      "score": null
+    },
+    {
+      "timestamp": "2026-01-31T06:06:26.625675",
+      "doc_type": "full_application",
+      "job_title": "Visual Designer",
+      "company": "Spotify",
+      "content_hash": "-152331362257718070",
+      "success": true,
+      "feedback": null,
+      "score": null
+    },
+    {
+      "timestamp": "2026-01-31T06:06:31.162336",
+      "doc_type": "full_application",
+      "job_title": "Visual Designer",
+      "company": "Spotify",
+      "content_hash": "-294740224853287656",
+      "success": true,
+      "feedback": null,
+      "score": null
+    },
+    {
+      "timestamp": "2026-01-31T06:06:41.926118",
+      "doc_type": "full_application",
+      "job_title": "UX Designer",
+      "company": "Salesforce",
+      "content_hash": "1708784035070219727",
+      "success": true,
+      "feedback": null,
+      "score": null
+    },
+    {
+      "timestamp": "2026-01-31T06:06:46.582927",
+      "doc_type": "full_application",
+      "job_title": "UX Designer",
+      "company": "Salesforce",
+      "content_hash": "-6925234944666906966",
+      "success": true,
+      "feedback": null,
+      "score": null
+    },
+    {
+      "timestamp": "2026-01-31T06:08:36.612224",
+      "doc_type": "full_application",
+      "job_title": "Graphic Designer (Remote)",
+      "company": "GoFasti",
+      "content_hash": "8732271566618137367",
+      "success": true,
+      "feedback": null,
+      "score": null
+    },
+    {
+      "timestamp": "2026-01-31T06:08:42.239878",
+      "doc_type": "full_application",
+      "job_title": "Graphic Designer (Remote)",
+      "company": "GoFasti",
+      "content_hash": "9158142177820738894",
+      "success": true,
+      "feedback": null,
+      "score": null
+    },
+    {
+      "timestamp": "2026-01-31T06:09:31.785368",
+      "doc_type": "full_application",
+      "job_title": "Graphic Designer - fully remote",
+      "company": "JobLeads",
+      "content_hash": "3546924804919286558",
+      "success": true,
+      "feedback": null,
+      "score": null
+    },
+    {
+      "timestamp": "2026-01-31T06:09:37.079984",
+      "doc_type": "full_application",
+      "job_title": "Graphic Designer - fully remote",
+      "company": "JobLeads",
+      "content_hash": "-7437363977400745188",
+      "success": true,
+      "feedback": null,
+      "score": null
+    },
+    {
+      "timestamp": "2026-01-31T06:09:47.924566",
+      "doc_type": "full_application",
+      "job_title": "Graphic Designer",
+      "company": "LTK USA",
+      "content_hash": "3063917193984308768",
+      "success": true,
+      "feedback": null,
+      "score": null
+    },
+    {
+      "timestamp": "2026-01-31T06:09:52.388203",
+      "doc_type": "full_application",
+      "job_title": "Graphic Designer",
+      "company": "LTK USA",
+      "content_hash": "568692774511643230",
+      "success": true,
+      "feedback": null,
+      "score": null
+    },
+    {
+      "timestamp": "2026-01-31T06:17:54.016545",
+      "doc_type": "full_application",
+      "job_title": "Brand Designer",
+      "company": "VuMedi",
+      "content_hash": "7692773477760321550",
+      "success": true,
+      "feedback": null,
+      "score": null
+    }
+  ],
+  "successful_patterns": [],
+  "failed_patterns": [],
+  "feedback_scores": [],
+  "learned_rules": []
+}

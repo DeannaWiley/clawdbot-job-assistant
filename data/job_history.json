@@ -1,0 +1,33 @@
+{
+  "seen": {
+    "e678ddf17a3dbd54": {
+      "first_seen": "2026-01-30T02:06:23.753327",
+      "last_seen": "2026-01-30T02:06:23.753327",
+      "status": "pending_review",
+      "title": "Graphic Designer",
+      "company": "ACME Corp",
+      "location": "",
+      "job_url": "https://test.com/1",
+      "notified_count": 1
+    }
+  },
+  "applied": {
+    "ec955c82b3d42b13": {
+      "applied_date": "2026-01-30T02:06:23.764018",
+      "title": "Brand Designer",
+      "company": "Tech Inc",
+      "location": "",
+      "job_url": "https://test.com/2",
+      "method": "manual",
+      "notes": "",
+      "status": "applied"
+    }
+  },
+  "skipped": {},
+  "stats": {
+    "total_seen": 1,
+    "total_applied": 1,
+    "total_skipped": 0,
+    "last_search_date": "2026-01-30T02:06:23.753327"
+  }
+}

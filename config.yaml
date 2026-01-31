@@ -1,0 +1,324 @@
+# Job Application Assistant Configuration
+# ==========================================
+
+user:
+  name: "Deanna Wiley"
+  email: "DeannaWileyCareers@gmail.com"
+  phone: "(708) 265-8734"
+  location: "Alameda, CA"
+  linkedin_url: "https://www.linkedin.com/in/deannafwiley/"
+  portfolio_url: "https://dwileydesign.myportfolio.com/"
+  behance_url: "https://www.behance.net/deannawiley"
+
+# Online Presence (for applications and tracking)
+portfolio:
+  main: "https://dwileydesign.myportfolio.com/"
+  behance: "https://www.behance.net/deannawiley"
+  linkedin: "https://www.linkedin.com/in/deannafwiley/"
+
+# Job Search Settings
+search:
+  locations:
+    - "Oakland, CA"
+    - "San Francisco, CA"
+    - "Berkeley, CA"
+    - "Remote"
+  
+  # Target job categories and keywords
+  categories:
+    graphic_design:
+      keywords:
+        - "Graphic Designer"
+        - "Brand Designer"
+        - "Visual Designer"
+        - "Marketing Designer"
+        - "Creative Designer"
+      required_skills:
+        - "Adobe Creative Suite"
+        - "Photoshop"
+        - "Illustrator"
+    
+    multimedia:
+      keywords:
+        - "Multimedia Designer"
+        - "Motion Graphics"
+        - "Animator"
+        - "Video Editor"
+      required_skills:
+        - "After Effects"
+        - "Premiere Pro"
+    
+    administrative:
+      keywords:
+        - "Administrative Assistant"
+        - "Office Assistant"
+        - "Executive Assistant"
+        - "Receptionist"
+      required_skills:
+        - "Microsoft Office"
+        - "Calendar Management"
+    
+    cannabis:
+      keywords:
+        - "Budtender"
+        - "Dispensary"
+        - "Cannabis"
+      required_skills: []
+
+  # Job boards to search (valid JobSpy sites: linkedin, indeed, glassdoor, google, zip_recruiter)
+  sources:
+    - "linkedin"
+    - "indeed"
+    - "glassdoor"
+    - "google"
+  
+  # How far back to look (hours)
+  hours_old: 72
+  
+  # Max results per search
+  results_wanted: 20
+
+# Filtering Settings
+filtering:
+  # Domains to trust
+  trusted_domains:
+    - "linkedin.com"
+    - "indeed.com"
+    - "glassdoor.com"
+    - "greenhouse.io"
+    - "lever.co"
+    - "workday.com"
+    - "behance.net"  # Added Behance
+    - "myportfolio.com"  # Added Portfolio site
+  
+  # Scam indicators to flag
+  scam_keywords:
+    - "wire transfer"
+    - "crypto payment"
+    - "Western Union"
+    - "training fee"
+    - "pay upfront"
+    - "no experience necessary"
+    - "work from home $1000/day"
+    - "guaranteed income"
+
+# LLM Settings
+llm:
+  provider: "groq"  # Primary provider (free tier)
+  model: "llama-3.3-70b-versatile"  # Groq model
+  fallback_provider: "openrouter"
+  fallback_model: "anthropic/claude-3.5-sonnet"
+  temperature: 0.3
+  max_tokens: 4096
+
+# Slack Settings  
+slack:
+  channel: "#all-job-hunt-ai"  # Main channel for job updates
+  daily_summary_time: "08:00"  # When to send daily job summary
+
+# Gmail Integration
+gmail:
+  enabled: true
+  labels:
+    - "Job Applications"
+    - "Interviews"
+    - "Follow-ups"
+  
+  # Email templates will be customized based on portfolio/work
+  signature: |
+    Best regards,
+    Deanna Wiley
+    Portfolio: https://dwileydesign.myportfolio.com/
+    Behance: https://www.behance.net/deannawiley
+    LinkedIn: https://www.linkedin.com/in/deannafwiley/
+
+# Application Settings
+application:
+  auto_apply_enabled: true  # Enabled for auto-apply testing
+  supported_platforms:
+    - "linkedin_easy_apply"
+    - "greenhouse"
+    - "lever"
+  portfolio_inclusion:
+    default: true  # Always include portfolio link
+    formats:
+      - main_portfolio: "https://dwileydesign.myportfolio.com/"
+      - behance: "https://www.behance.net/deannawiley"
+      - linkedin: "https://www.linkedin.com/in/deannafwiley/"
+
+# Tracking
+tracking:
+  log_file: "data/applied_jobs.csv"
+  notify_on_status_change: true
+
+# Extended Job Boards (beyond LinkedIn/Indeed/Glassdoor)
+extended_boards:
+  enabled: true
+  
+  # Design-focused job boards
+  behance: true
+  dribbble: true
+  
+  # Startup job boards
+  wellfound: true  # AngelList - great for startup jobs
+  
+  # Remote-focused boards
+  weworkremotely: true
+  remoteok: true
+  
+  # Modern ATS company boards to check
+  target_companies:
+    # Ashby-powered companies
+    ashby:
+      - notion
+      - figma
+      - ramp
+      - linear
+      - vercel
+      - openai
+      - anthropic
+    
+    # Greenhouse-powered companies  
+    greenhouse:
+      - airbnb
+      - discord
+      - coinbase
+      - spotify
+      - pinterest
+      - reddit
+    
+    # Lever-powered companies
+    lever:
+      - netlify
+      - cloudflare
+      - zapier
+      - airtable
+      - webflow
+
+# Automation Settings (Research-backed: 2-5 tailored applications/day is optimal)
+automation:
+  daily_target: 3  # Recommended: 3 high-quality applications per day
+  min_daily: 2
+  max_daily: 5
+  auto_search: true
+  auto_search_time: "08:00"  # Daily search time
+  email_notifications: true
+  slack_notifications: true
+  
+  # Weekly targets
+  weekly_goal: 15  # 3/day * 5 days
+  
+  # Interview scheduling preferences
+  scheduling:
+    working_hours_start: 9
+    working_hours_end: 17
+    exclude_weekends: true
+    preferred_interview_duration: 60  # minutes
+    buffer_between_interviews: 30  # minutes
+
+# Job Search Preferences
+preferences:
+  salary:
+    minimum: 60000  # Minimum acceptable salary
+    target: 80000   # Target salary
+    maximum: 100000 # Maximum/ideal salary
+    currency: "USD"
+  
+  locations:
+    # Core cities
+    preferred:
+      - "Remote"
+      # Oakland & within 15-30 miles
+      - "Oakland, CA"
+      - "Alameda, CA"
+      - "Emeryville, CA"
+      - "Piedmont, CA"
+      - "San Leandro, CA"
+      - "Hayward, CA"
+      - "Castro Valley, CA"
+      - "Fremont, CA"
+      # San Francisco & within 15-30 miles
+      - "San Francisco, CA"
+      - "Daly City, CA"
+      - "South San Francisco, CA"
+      - "San Bruno, CA"
+      - "Burlingame, CA"
+      - "San Mateo, CA"
+      - "Redwood City, CA"
+      # Berkeley & within 15-30 miles
+      - "Berkeley, CA"
+      - "Albany, CA"
+      - "El Cerrito, CA"
+      - "Richmond, CA"
+      - "Walnut Creek, CA"
+      - "Concord, CA"
+      - "Pleasant Hill, CA"
+      - "Lafayette, CA"
+      - "Orinda, CA"
+      # South Bay (within range)
+      - "Palo Alto, CA"
+      - "Mountain View, CA"
+      - "Sunnyvale, CA"
+      - "Santa Clara, CA"
+      - "San Jose, CA"
+    willing_to_relocate: false
+    max_commute_minutes: 45
+  
+  company_preferences:
+    sizes:
+      - "startup"      # < 50 employees
+      - "small"        # 50-200
+      - "medium"       # 200-1000
+      - "large"        # 1000+
+    industries:
+      - "Tech"
+      - "Creative Agency"
+      - "E-commerce"
+      - "SaaS"
+      - "Media"
+      - "Design"
+      - "Marketing"
+  
+  deal_breakers:
+    - "Commission only"
+    - "Unpaid internship"
+    - "No benefits"
+    - "Part time"
+    - "Part-time"
+    - "Internship"
+    - "Intern"
+    - "Requires security clearance"
+    - "On-call 24/7"
+  
+  nice_to_have:
+    - "Remote work option"
+    - "Flexible hours"
+    - "Professional development budget"
+    - "Health insurance"
+    - "401k matching"
+
+# Content Review Settings (AI validation of generated content)
+review:
+  enabled: true
+  
+  # Run AI-powered deep checks (uses tokens but catches hallucinations)
+  ai_checks: true
+  
+  # Minimum scores to pass
+  min_overall_score: 70
+  min_alignment_score: 6
+  
+  # What to check
+  checks:
+    ats_formatting: true
+    keyword_coverage: true
+    quantified_achievements: true
+    cliches_detection: true
+    hallucination_check: true  # Critical - catches fabricated content
+    tone_check: true
+    job_alignment: true
+  
+  # Auto-reject if these fail
+  critical_checks:
+    - hallucination_check
+    - ats_formatting
