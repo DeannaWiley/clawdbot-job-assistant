@@ -1,162 +1,269 @@
-# Job Application Assistant
+# ClawdBot Job Assistant
 
-An AI-powered job application workflow that automates job searching, filtering, resume/cover letter tailoring, and application tracking via Slack.
+🤖 An AI-powered job application system that automates job searching, resume/cover letter tailoring, and autonomous applications with full database tracking.
 
-## Features
+## ✨ Features
 
-- **Job Sourcing**: Scrapes jobs from LinkedIn, Indeed, Glassdoor, and Google Jobs using JobSpy
-- **Scam Filtering**: Automatically filters out scam postings and low-quality listings
-- **AI Tailoring**: Uses Claude/GPT via OpenRouter to customize resumes and cover letters for each job
-- **Slack Integration**: Daily job summaries with approval buttons directly in Slack DMs
-- **Application Tracking**: Logs all applications with status tracking and follow-up reminders
+- **🔍 Job Sourcing**: Scrapes jobs from LinkedIn, Indeed, Glassdoor, Greenhouse, Lever, and more
+- **🎯 AI Tailoring**: Uses Groq LLM to customize resumes and cover letters for each job
+- **🤖 Autonomous Applications**: Fully automated job submissions with queue management
+- **📊 Database Tracking**: Complete Supabase backend for jobs, applications, resumes, and analytics
+- **📧 Email Confirmations**: Gmail integration for application confirmation tracking
+- **🔐 CAPTCHA Handling**: Automated CAPTCHA solving for complex forms
+- **💬 Conversational Interface**: Natural language commands via ClawdBot workflow
 
-## Setup
+## 🚀 Quick Start
 
-### 1. Install Dependencies
+### 1. Clone Repository
 
 ```bash
-cd job-assistant
-pip install -r requirements.txt
+git clone https://github.com/DeannaWiley/clawdbot-job-assistant.git
+cd clawdbot-job-assistant
+```
 
-# Install Playwright browsers (for auto-apply features)
+### 2. Install Dependencies
+
+```bash
+pip install -r requirements.txt
 playwright install chromium
 ```
 
-### 2. Configure Environment Variables
-
-Set these environment variables:
+### 3. Environment Setup
 
 ```bash
-# Required
-export OPENROUTER_API_KEY="your-openrouter-api-key"
-export SLACK_BOT_TOKEN="xoxb-your-slack-bot-token"
-export SLACK_APP_TOKEN="xapp-your-slack-app-token"
+# Copy environment template
+cp .env.example .env
 
-# Windows (PowerShell)
-$env:OPENROUTER_API_KEY = "your-openrouter-api-key"
+# Edit .env with your API keys
+# Required:
+#   GROQ_API_KEY
+#   SUPABASE_URL
+#   SUPABASE_ANON_KEY
 ```
 
-### 3. Configure Your Profile
+### 4. Database Setup
 
-Edit `config.yaml`:
-- Add your personal info (name, email, phone)
-- Customize job search keywords and locations
-- Adjust filtering settings
+Run these SQL files in Supabase SQL Editor (in order):
+1. `db/migrations/001_initial_schema.sql`
+2. `db/migrations/002_fix_rls_policies.sql`
+3. `db/migrations/003_fix_security_issues.sql`
+4. `db/migrations/004_fix_cover_letters_schema.sql`
+5. `db/migrations/005_job_queue_system.sql`
 
-### 4. Add Your Resume
+### 5. Configure Profile
 
-Edit `data/base_resume.txt` with your actual resume content.
+Edit `config.yaml` with your personal info and job preferences.
 
-## Usage
+## 📖 Usage
 
-### Run Daily Workflow
+### Interactive ClawdBot Mode
 
 ```bash
-python main.py
+python skills/clawdbot_workflow.py
 ```
 
-This will:
-1. Search for jobs matching your criteria
-2. Filter out scams and irrelevant listings
-3. Tailor your resume and cover letter for each job
-4. Send a summary to Slack with Approve/Skip buttons
+Commands:
+- `"show queue"` - View jobs waiting to apply
+- `"show stats"` - Get queue statistics
+- `"apply next"` - Apply to next job in queue
+- `"apply all"` - Apply to multiple jobs
+- `"add [URL]"` - Add job URL to queue
 
-### Search Only (No Slack)
+### Job Queue Management
+
+```python
+from skills.job_queue_manager import *
+
+# Add job to queue
+clawdbot_add_job(url, title, company)
+
+# Apply to next job
+import asyncio
+asyncio.run(clawdbot_apply_next())
+
+# View queue
+clawdbot_get_queue()
+```
+
+### Document Generation
+
+```python
+from skills.document_generator import generate_application_documents
+
+# Generate tailored resume and cover letter
+result = generate_application_documents(
+    job_url="https://boards.greenhouse.io/company/jobs/123456",
+    job_title="Product Designer",
+    company_name="Company"
+)
+```
+
+### Autonomous Application
+
+```python
+from skills.real_auto_apply import auto_apply_to_job
+
+# Apply to job with full automation
+result = await auto_apply_to_job(
+    job_url,
+    job_title,
+    company_name,
+    job_description
+)
+```
+
+## 🏗️ Project Structure
+
+```
+clawdbot-job-assistant/
+├── 📄 README.md              # This file
+├── 📄 SETUP.md               # Complete setup guide
+├── 📄 .env.example           # Environment variables template
+├── 📄 .gitignore             # Excludes sensitive data
+├── 📄 requirements.txt        # Python dependencies
+├── ⚙️ config.yaml            # Configuration settings
+├── 📂 data/                  # User data
+│   ├── 📝 base_resume.txt     # Your resume template
+│   └── 📂 applications/       # Generated documents
+├── 📂 skills/                 # Core functionality (50+ modules)
+│   ├── 🤖 clawdbot_workflow.py     # Conversational interface
+│   ├── 📋 job_queue_manager.py     # Queue management
+│   ├── 🚀 real_auto_apply.py       # Application automation
+│   ├── 📄 document_generator.py    # Resume/CV generation
+│   ├── 🎨 tailor_resume.py         # AI resume tailoring
+│   ├── 📝 write_cover_letter.py    # AI cover letters
+│   ├── 🤖 captcha_handler.py       # CAPTCHA solving
+│   ├── 📧 gmail_handler.py         # Email tracking
+│   └── 🎭 playwright_automation.py # Browser automation
+├── 📂 db/                    # Database schema
+│   └── 📂 migrations/             # SQL migration files
+└── 🚀 main.py                # Entry point
+```
+
+## 🔧 API Keys Required
+
+| Service | Purpose | How to Get |
+|---------|---------|-------------|
+| **Groq** | LLM for resume/cover letters | https://console.groq.com/keys (Free) |
+| **Supabase** | Database backend | https://supabase.com/dashboard |
+| **2Captcha** | CAPTCHA solving | https://2captcha.com/ |
+| **OpenRouter** | Alternative LLM | https://openrouter.ai/keys |
+| **Slack** | Notifications | https://api.slack.com/apps |
+
+## 📊 What Gets Tracked
+
+- ✅ Jobs found and filtered
+- ✅ Applications submitted (with status)
+- ✅ Resume/Cover letter versions
+- ✅ Email confirmations received
+- ✅ Success/failure rates
+- ✅ CAPTCHA solving statistics
+- ✅ Form field completion rates
+
+## 🎯 Supported Job Platforms
+
+| Platform | Status | Notes |
+|----------|--------|-------|
+| **Greenhouse** | ✅ Full automation | Best support |
+| **Lever** | ✅ Full automation | Excellent |
+| **Workday** | ⚠️ Partial | Some forms work |
+| **LinkedIn** | ❌ Manual only | Requires login |
+| **Indeed** | ⚠️ Limited | Varies by site |
+| **Company Sites** | ⚠️ Varies | Case by case |
+
+## 🔒 Security Features
+
+- **No API keys in repo** - Use `.env` file
+- **Row Level Security** - Supabase RLS policies
+- **CAPTCHA handling** - Automated solving
+- **Form validation** - Prevents bad submissions
+- **Email verification** - Tracks confirmations
+
+## 🛠️ Advanced Features
+
+### Custom Prompts
+
+Edit `skills/enhanced_prompts.py` to customize:
+- Resume tailoring prompts
+- Cover letter styles
+- Scam detection rules
+- Match scoring algorithms
+
+### Browser Automation
+
+Configure `skills/playwright_automation.py`:
+- Custom selectors
+- Wait strategies
+- Error handling
+- Screenshot debugging
+
+### Database Extensions
+
+Add new tables/views in `db/migrations/`:
+- Custom analytics
+- Additional tracking
+- User preferences
+- API integrations
+
+## 🐛 Troubleshooting
+
+### Common Issues
 
 ```bash
-python main.py --search-only
+# Test database connection
+python skills/test_supabase_connection.py
+
+# Test resume generation
+python skills/test_resume_generation.py
+
+# Test job queue
+python skills/job_queue_manager.py
+
+# Check Playwright
+playwright install chromium
 ```
 
-### View Application Status
+### Debug Mode
 
-```bash
-python main.py --status
+```python
+import logging
+logging.basicConfig(level=logging.DEBUG)
 ```
 
-### Limit Jobs Processed
+### Logs Location
 
-```bash
-python main.py --max-jobs 5
-```
+- Application logs: `logs/`
+- Screenshots: `data/applications/*_screenshot.png`
+- Debug images: `data/captcha/`
 
-## Project Structure
+## 📈 Performance Tips
 
-```
-job-assistant/
-├── main.py                 # Main orchestrator
-├── config.yaml             # Configuration
-├── requirements.txt        # Dependencies
-├── skills/
-│   ├── job_search.py       # Job aggregation from multiple sources
-│   ├── filter_jobs.py      # Scam detection and filtering
-│   ├── tailor_resume.py    # AI resume customization
-│   ├── write_cover_letter.py # AI cover letter generation
-│   ├── slack_notify.py     # Slack notifications and approvals
-│   ├── apply_job.py        # Automated application submission
-│   └── track_status.py     # Application logging and tracking
-├── data/
-│   ├── base_resume.txt     # Your base resume
-│   └── applied_jobs.csv    # Application log
-└── templates/              # Document templates
-```
+1. **Use Groq** - Faster and free vs OpenRouter
+2. **Greenhouse/Lever** - Best automation success rates
+3. **Queue jobs** - Batch process overnight
+4. **Monitor CAPTCHA** - Check solve rates
+5. **Email confirmations** - Verify submissions
 
-## Slack Workflow
+## 🤝 Contributing
 
-1. **Daily Summary**: Each morning, receive a Slack DM with job matches
-2. **Review**: Each job shows title, company, location, and match score
-3. **Approve**: Click to apply (documents are pre-tailored)
-4. **Skip**: Click to dismiss the job
-5. **Preview**: View tailored resume/cover letter before applying
+1. Fork repository
+2. Create feature branch
+3. Add tests for new features
+4. Submit pull request
 
-## Safety Features
-
-- **No auto-apply without approval**: Every application requires manual confirmation
-- **Scam detection**: Filters out suspicious postings automatically
-- **Trusted sources only**: Only processes jobs from verified job boards
-- **Credential safety**: Never logs or exposes sensitive credentials
-
-## Customization
-
-### Adding New Job Categories
-
-Edit `config.yaml` under `search.categories`:
-
-```yaml
-categories:
-  new_category:
-    keywords:
-      - "Keyword 1"
-      - "Keyword 2"
-    required_skills:
-      - "Skill 1"
-```
-
-### Adjusting Scam Filters
-
-Edit `config.yaml` under `filtering.scam_keywords` to add/remove red flag phrases.
-
-## Integration with Clawdbot
-
-This assistant is designed to work with Clawdbot (Moltbot). To run via Clawdbot:
-
-1. Ensure Clawdbot gateway is running
-2. The skills can be registered as Clawdbot skills
-3. Slack interactions are handled via Clawdbot's Slack plugin
-
-## Troubleshooting
-
-### No jobs found
-- Check your search keywords in config.yaml
-- Verify JobSpy is working: `python -c "from jobspy import scrape_jobs; print('OK')"`
-
-### Slack not sending
-- Verify SLACK_BOT_TOKEN and SLACK_APP_TOKEN are set
-- Check bot has required permissions (chat:write, im:write)
-
-### LLM errors
-- Verify OPENROUTER_API_KEY is set and valid
-- Check you have credits on OpenRouter
-
-## License
+## 📄 License
 
 MIT License - Use freely for personal job hunting!
+
+## 🆘 Support
+
+- 📖 Check `SETUP.md` for detailed guide
+- 🐛 Issues: GitHub Issues
+- 💬 Discord: [Join our community]
+- 📧 Email: deannawiley.careers@gmail.com
+
+---
+
+**Built with ❤️ by Deanna Wiley**
+
+🎯 **Happy job hunting with ClawdBot!**
