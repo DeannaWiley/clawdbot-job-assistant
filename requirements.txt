@@ -1,5 +1,7 @@
-# Job Application Assistant Dependencies
-# Core
+# ClawdBot Job Assistant Dependencies
+# =====================================
+
+# Core Dependencies
 python-jobspy>=0.46.0
 pandas>=2.0.0
 requests>=2.31.0
@@ -7,8 +9,12 @@ requests>=2.31.0
 # LLM Integration
 openai>=1.0.0
 anthropic>=0.18.0
+groq>=0.4.0
 
-# Slack Integration
+# Database
+supabase>=1.0.0
+
+# Slack Integration (Optional)
 slack-sdk>=3.27.0
 slack-bolt>=1.18.0
 
@@ -20,6 +26,11 @@ python-docx>=1.1.0
 PyPDF2>=3.0.0
 reportlab>=4.0.0
 
+# Email Integration (Optional)
+google-api-python-client>=2.0.0
+google-auth>=2.0.0
+google-auth-oauthlib>=1.0.0
+
 # Data Storage
 aiofiles>=23.0.0
 
@@ -27,3 +38,6 @@ aiofiles>=23.0.0
 python-dotenv>=1.0.0
 pyyaml>=6.0.0
 schedule>=1.2.0
+
+# CAPTCHA Solving (Optional)
+2captcha-python>=0.2.0
